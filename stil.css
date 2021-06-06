@@ -1,0 +1,19 @@
+﻿body {
+    background-color:gray;
+}
+#Chart1{
+    position:absolute;
+    left:30%;
+    top:20%;
+}
+#Label1 {
+    position: absolute;
+    left: 36%;
+    top: 52%;
+}
+#Label2 {
+    position: absolute;
+    left: 23%;
+    top: 36%;
+}
+
